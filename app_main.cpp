@@ -37,7 +37,7 @@ void appKeyBoard(unsigned char, int, int);
 
 
 //Instance of Game class
- Game * pG = new Game(COLUMNS, ROWS, 15, 0);
+ Game * pG = new Game(COLUMNS, ROWS, 5, 0);
 
 
 //Main Function
